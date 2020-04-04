@@ -1,3 +1,1 @@
-# password-generator
-
-## Site to generate the passwords of your dreams!
+# Password Generator Starter Code
